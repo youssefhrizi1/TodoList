@@ -1,5 +1,7 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="about pa-6" >
+    <h1>Youssef Hrizi</h1>
+    <p>24879490</p>
+    <p>youssef95hrizi@gmail.com</p>
   </div>
 </template>
